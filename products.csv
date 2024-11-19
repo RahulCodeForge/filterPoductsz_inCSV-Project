@@ -1,0 +1,8 @@
+product_id,name,category,price
+1,Phone,Electronics,150
+2,Tablet,Electronics,300
+3,Laptop,Electronics,500
+4,Book,Stationery,20
+5,Pen,Stationery,5
+6,Headphones,Electronics,75
+7,Notebook,Stationery,15
