@@ -33,9 +33,9 @@ def filter_products(input_file, output_file, min_price, max_price, category_filt
 # Example usage
 input_file = 'products.csv'        # Input CSV file with product data
 output_file = 'filtered_products.csv'  # Output CSV file for filtered results
-min_price = 5                     # Minimum price for filtering
-max_price = 50                   # Maximum price for filtering
-category_filter = 'Stationery'    #  category wise filtering
+min_price = 150                     # Minimum price for filtering
+max_price = 200000               # Maximum price for filtering
+category_filter = 'Electronics'    #  category wise filtering
 
 # Run the filter function
 filter_products(input_file, output_file, min_price, max_price, category_filter)
